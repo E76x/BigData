@@ -26,7 +26,7 @@ Hive元数据管理是指Hive对其数据仓库中的元数据进行管理和维
 
 ## 4.Hive体系架构
 
-![image-20240125163901445](C:\Users\Q27\AppData\Roaming\Typora\typora-user-images\image-20240125163901445.png)
+![image-20240125163901445](https://cdn.processon.com/64fc1806e1387700a175e7c9-657561b7ba71c638e404f685?e=1702195143&token=trhI0BY8QfVrIGn9nENop6JAc6l5nZuxhjQ62UfM:XWqhy1qkkyCpb4yqDlAZOOBiyZw=?s=100_100)
 
 ## 5.Hive Tables
 
@@ -376,7 +376,7 @@ Area B = Circle1 RIGHT OUTER JOIN Circle2
 AUBUC = Circle1 FULL OUTER JOIN Circle2
 ```
 
-![image-20240125181535761](C:\Users\Q27\AppData\Roaming\Typora\typora-user-images\image-20240125181535761.png)
+![image-20240125181535761](https://cdn.processon.com/userId2-65b5c5a127c33615afa66830?e=1706415025&token=trhI0BY8QfVrIGn9nENop6JAc6l5nZuxhjQ62UfM:xp7E1Oe-fzhRXQIKCODEJ4RzU9Q=?s=100_100)
 
 #### MAPJOIN
 
